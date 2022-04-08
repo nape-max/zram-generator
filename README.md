@@ -1,3 +1,7 @@
+# Link with description how to use it:
+https://www.ctrl.blog/entry/how-to-systemd-zram-generator.html
+
+
 # `systemd-zram-setup@.service` generator for zram devices
 
 <a href="https://repology.org/project/zram-generator/versions">
